@@ -32,5 +32,7 @@ Task 6: Introduction to Command Line
 
 Finally, as a member of the μLearn community, you'll need to become familiar with the command line interface. This may include learning how to navigate directories, create and modify files, and run commands using the terminal. When I first started using the command line, I was a little nervous, but with the help of the community and some online resources, I was able to become more comfortable with this powerful tool.
 
+![Image of Certificate](Images/Screenshot from 2023-04-13 22-37-56.png)
+
 In conclusion, the μLearn community is a great place to learn new skills, connect with other like-minded individuals, and contribute to open-source projects. Whether you're a beginner or an experienced developer, there's always something new to learn and explore. By completing these different onboarding tasks, you'll be well on your way to becoming an active and engaged member of this community.
 
